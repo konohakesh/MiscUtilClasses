@@ -84,7 +84,7 @@ public class HTTPUtils
     }
 
     /**
-     * Scans a string and gets rid off HTML like characters
+     * Scans a string and gets rid of HTML like characters
      * @param rawString Raw string which needs to be cleaned
      * @param isUnicode Are Unicode characters present?
      * @param isXML Are XML characters present?
