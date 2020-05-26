@@ -31,7 +31,7 @@ public class HTTPUtils
     }
 
     /**
-     * Gets URL Connection object
+     * Gets URL Connection object for a given URL
      * @param urlString URL whose URLConnection object to return
      * @throws IOException
      * @return URLConnection object
