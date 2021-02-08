@@ -1,7 +1,7 @@
 # MiscUtilClasses
 This has many util classes written in Java that one can use out of the box to achieve a usecase
 
-AWSUtils.java -> This class has APIs for Creat, Read and Delete tasks for Amazon Web Services like SQS and DynamoDB
+AWSUtils.java -> This class has APIs for Create, Read and Delete tasks for Amazon Web Services like SQS and DynamoDB
 
 HTTPUtil.java -> This class has APIs for general HTTP work.
 
